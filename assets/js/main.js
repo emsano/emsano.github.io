@@ -1,3 +1,6 @@
+const observer = lozad();
+observer.observe();
+
 (function ($) {
 
 	var $window = $(window),
